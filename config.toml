@@ -3,7 +3,13 @@ languageCode = "en-us"
 title = "Decima - blog"
 theme = "hugo-kiera"
 
+copyright = "Copyright &copy; 2019 - D3cima"
+canonifyurls = true
 
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
 pygmentsCodeFences = true
 
 
