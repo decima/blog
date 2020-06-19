@@ -1,0 +1,43 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Henri LARGET"
+theme = "hugo-kiera"
+
+
+pygmentsCodeFences = true
+
+
+[author]
+    name = "Henri LARGET"           #Author name
+    github = "decima"         #Github username
+    linkedin = "d3cima"       #LinkedIn username
+    twitter = "d3cima"        #Twitter username
+    stackoverflow = "/users/3717767/d3cima"  #StackOverflow username
+[params]
+    tagline = "Developer, musician, RPG dm"
+    description = "Kiera: A Hugo theme for creative and technical writing."
+    #images = [""] #This is used for opengraph/twitter cards.
+    customCSS = []  #Optional Customised CSS
+    #favicon = ""
+    #utterancesRepo = "username/repository"
+    #utterancesIssueTerm = "pathname"
+    #homepageLength = 10
+    #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+# uncomment to enable the Tags link on the main toolbar
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 1
+
+# uncomment to enable the Categories link on the main toolbar
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories"
+    weight = 1
