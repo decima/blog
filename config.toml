@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://d3cima.com/"
 languageCode = "en-us"
 title = "Henri LARGET"
 theme = "hugo-kiera"
