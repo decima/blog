@@ -2,8 +2,8 @@
 title = "My First Post"
 date = 2020-06-19T11:17:58Z
 images = []
-tags = ["oh"]
-categories = ["june 2020"]
+tags = ["awesome"]
+categories = ["uncategorized"]
 draft = false
 +++
 
