@@ -1,6 +1,6 @@
 baseURL = "https://d3cima.com/"
 languageCode = "en-us"
-title = "Henri LARGET"
+title = "Decima - blog"
 theme = "hugo-kiera"
 
 
@@ -19,7 +19,7 @@ pygmentsCodeFences = true
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
     #favicon = ""
-    #utterancesRepo = "username/repository"
+    #utterancesRepo = "decima/blog"
     #utterancesIssueTerm = "pathname"
     #homepageLength = 10
     #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
