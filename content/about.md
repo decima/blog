@@ -3,6 +3,7 @@ title: About Me
 draft: false
 menu: "main"
 meta: "false"
+weight: 1
 ---
 Hi ! My name's **Henri Larget** but i'm also known as **Decima**. I'm a DevOps Engineer at [Aboutgoods Company](http://aboutgoods-company.com/).
 
