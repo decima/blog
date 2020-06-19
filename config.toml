@@ -19,10 +19,10 @@ pygmentsCodeFences = true
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
     #favicon = ""
-    #utterancesRepo = "decima/blog"
-    #utterancesIssueTerm = "pathname"
-    #homepageLength = 10
-    #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
+    utterancesRepo = "decima/blog"
+    utterancesIssueTerm = "pathname"
+    homepageLength = 10
+    commentAutoload = true  #This mean reader don't need click, disqus comment autoload
 
 [markup]
   [markup.goldmark]
