@@ -5,4 +5,5 @@ menu: "main"
 meta: "false"
 ---
 
+A small test
 
