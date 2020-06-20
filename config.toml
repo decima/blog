@@ -21,8 +21,8 @@ pygmentsCodeFences = true
     stackoverflow = "/users/3717767/d3cima"  #StackOverflow username
 [params]
     tagline = "Developer, musician, RPG dm"
-    description = "Kiera: A Hugo theme for creative and technical writing."
-    #images = [""] #This is used for opengraph/twitter cards.
+    description = "My blog about Dev, music and gaming."
+    images = ["https://www.gravatar.com/avatar/e0922cc7660b5ba1ad72e5c36ea673ef.jpg?s=500"] #This is used for opengraph/twitter cards.
     customCSS = ["/css/custom.css"]  #Optional Customised CSS
     #favicon = ""
     utterancesRepo = "decima/blog"
