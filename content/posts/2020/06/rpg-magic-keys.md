@@ -37,5 +37,5 @@ I'll try to share with you other game mechanics.
 
 > Tom is named after Tom Bombadil, a character in J.R.R. Tolkien's books.
 >
-> I like the fact that he is the only person in the whole Middle Earth to not being affected by the ring.
+> I like the fact that he is the only person in the whole Middle Earth not being affected by the evil power of the ring.
 >
