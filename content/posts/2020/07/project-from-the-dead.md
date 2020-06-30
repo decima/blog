@@ -8,7 +8,7 @@ draft = false
 +++
 
 
-In 2011, I discovered a rule:
+In 2011, I learned a very important rule about myself:
 > When you have an idea after 2AM, it's most of the time a bad idea.
 
 Sometimes you want to listen one song, and at 2AM, you download all the artist's discography. 
