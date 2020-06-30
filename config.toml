@@ -12,7 +12,6 @@ summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
-
 [author]
     name = "Henri LARGET"           #Author name
     github = "decima"         #Github username
