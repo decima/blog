@@ -13,7 +13,7 @@ In 2011, I learned a very important rule about myself:
 
 Sometimes you want to listen one song, and at 2AM, you download all the artist's discography. 
 
-For some groups like Queen, it's a wonderful thing, but globally, 
+For some bands like Queen, it's a wonderful thing, but globally, 
 when the song is [Hurt](https://www.youtube.com/watch?v=8AHCfZTRGiI) from Johnny Cash, then you have on your computer
 an awesome treasure of a 1000 country songs, 1/20 of my whole music library. 
 
